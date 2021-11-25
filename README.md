@@ -8,7 +8,7 @@
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
      
 - 📫 Please email mohirvan066@gmail.com to Hire me.
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-irvan&show_icons=true&locale=en&layout=compact" alt="mohammad-irvan" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-irvan&" alt="mohammad-irvan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-irvan&show_icons=true&locale=en&layout=compact" alt="mohammad-irvan" /></p> <p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-irvan&" alt="mohammad-irvan" /></p>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
